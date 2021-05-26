@@ -1,0 +1,25 @@
+[
+{
+  "directory": "/home/rxth/rakshith/tmp/cpp_proj/build",
+  "command": "/usr/bin/c++    -g   -std=gnu++1z -o proj1/CMakeFiles/testCpp1.dir/src/src1.cpp.o -c /home/rxth/rakshith/tmp/cpp_proj/proj1/src/src1.cpp",
+  "file": "/home/rxth/rakshith/tmp/cpp_proj/proj1/src/src1.cpp"
+},
+
+{
+  "directory": "/home/rxth/rakshith/tmp/cpp_proj/build",
+  "command": "/usr/bin/c++    -g   -std=gnu++1z -o proj1/CMakeFiles/testCpp1.dir/src/src2.cpp.o -c /home/rxth/rakshith/tmp/cpp_proj/proj1/src/src2.cpp",
+  "file": "/home/rxth/rakshith/tmp/cpp_proj/proj1/src/src2.cpp"
+},
+
+{
+  "directory": "/home/rxth/rakshith/tmp/cpp_proj/build",
+  "command": "/usr/bin/c++    -g   -std=gnu++1z -o proj2/CMakeFiles/testCpp2.dir/src/src1.cpp.o -c /home/rxth/rakshith/tmp/cpp_proj/proj2/src/src1.cpp",
+  "file": "/home/rxth/rakshith/tmp/cpp_proj/proj2/src/src1.cpp"
+},
+
+{
+  "directory": "/home/rxth/rakshith/tmp/cpp_proj/build",
+  "command": "/usr/bin/c++    -g   -std=gnu++1z -o proj2/CMakeFiles/testCpp2.dir/src/src2.cpp.o -c /home/rxth/rakshith/tmp/cpp_proj/proj2/src/src2.cpp",
+  "file": "/home/rxth/rakshith/tmp/cpp_proj/proj2/src/src2.cpp"
+}
+]

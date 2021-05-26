@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rxth/rakshith/tmp/cpp_proj/proj2/src/src1.cpp
+iostream
+-
+src2.h
+/home/rxth/rakshith/tmp/cpp_proj/proj2/src/src2.h
+
+/home/rxth/rakshith/tmp/cpp_proj/proj2/src/src2.cpp
+iostream
+-
+src2.h
+/home/rxth/rakshith/tmp/cpp_proj/proj2/src/src2.h
+
+/home/rxth/rakshith/tmp/cpp_proj/proj2/src/src2.h
+

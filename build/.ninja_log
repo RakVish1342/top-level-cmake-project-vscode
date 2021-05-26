@@ -1,0 +1,18 @@
+# ninja log v5
+0	245	1622003780	CMakeFiles/testCpp1.dir/src/src1.cpp.o	cc5552c7e3b15c5a
+1	249	1622003780	CMakeFiles/testCpp1.dir/src/src2.cpp.o	e5ef508ec2dc2197
+249	314	1622003780	testCpp1	483493bb018b6fcf
+0	283	1622004814	proj1/CMakeFiles/testCpp1.dir/src/src2.cpp.o	e4e73d20ab4f27ba
+0	291	1622004814	proj1/CMakeFiles/testCpp1.dir/src/src1.cpp.o	3e73620d298d6bfc
+291	350	1622004814	proj1/testCpp1	b8454ce14aed86be
+0	294	1622004827	proj2/CMakeFiles/testCpp2.dir/src/src2.cpp.o	d09b4af1f2cd1fb8
+0	299	1622004827	proj2/CMakeFiles/testCpp2.dir/src/src1.cpp.o	c11d89f195f486c3
+299	359	1622004827	proj2/testCpp2	48636a5e0a105614
+0	300	1622006879	proj1/CMakeFiles/testCpp1.dir/src/src1.cpp.o	3e73620d298d6bfc
+0	301	1622006879	proj1/CMakeFiles/testCpp1.dir/src/src2.cpp.o	e4e73d20ab4f27ba
+301	371	1622006879	proj1/testCpp1	b8454ce14aed86be
+1	299	1622006889	proj2/CMakeFiles/testCpp2.dir/src/src1.cpp.o	c11d89f195f486c3
+1	312	1622006889	proj2/CMakeFiles/testCpp2.dir/src/src2.cpp.o	d09b4af1f2cd1fb8
+312	378	1622006889	proj2/testCpp2	48636a5e0a105614
+1	303	1622007623	proj2/CMakeFiles/testCpp2.dir/src/src1.cpp.o	c11d89f195f486c3
+303	364	1622007624	proj2/testCpp2	48636a5e0a105614
